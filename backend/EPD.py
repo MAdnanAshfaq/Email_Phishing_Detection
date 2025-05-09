@@ -9,8 +9,8 @@ app = Flask(__name__)
 CORS(app)
 
 # Configuration
-YAHOO_EMAIL = "hiqahsh123@yahoo.com"
-YAHOO_PASSWORD = "xbqvhwniraaysxhy"
+YAHOO_EMAIL = "malikhussainabas863@gmail.com"
+YAHOO_PASSWORD = "anonymousXD@#$333"
 
 class EmailAnalyzer:
     def __init__(self):
